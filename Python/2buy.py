@@ -4,7 +4,6 @@ One line 82-85 You can Change a Coin and Buy amount
 For More information read a API.md
 """
 
-
 import requests
 import hmac
 import hashlib

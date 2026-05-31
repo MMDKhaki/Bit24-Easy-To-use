@@ -4,7 +4,6 @@ E.g on code 2 ADA
 You can change it on lines 20-32 
 For More information read a API.md
 """
-
 import requests
 import hashlib
 import hmac
