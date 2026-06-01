@@ -1,5 +1,7 @@
 # Bit24 PHP Examples
 
+[Please Read A API Please](api.md)
+
 مجموعه‌ای از نمونه‌کدهای PHP برای کار با API صرافی Bit24.
 
 ## فایل‌ها
@@ -24,7 +26,7 @@
 * فروش 2 ADA
 * ثبت سفارش Market Sell
 
----
+---0
 
 ### Sell All Balance
 
