@@ -1,8 +1,7 @@
-# Bit24 Trading Bot 🤖
-
+### Easy API Document Bit24 on Python Node.js, Go , PHP
+### مستندات API آسان Bit24 روی پایتون، Node.js، go، PHP
+---
 <div dir="rtl">
-
-# ربات معامله‌گر Bit24 با Python، Go، Node.js و PHP
 
 ### معرفی پروژه
 
